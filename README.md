@@ -1,5 +1,4 @@
 # ShopEase-Ecommerce-Website
-# ShopEase E-Commerce Website
 
 A responsive e-commerce product page built to practice JavaScript 
 fundamentals — variables, control flow, functions, and DOM interaction.
